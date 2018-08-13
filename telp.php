@@ -6,13 +6,13 @@ author : galehdotid
 txh : indoXploit - SGB TEAM - SukabumiBlackHat
 */
  print "==============================================\n";
- print " _____ ____   __ __                           \n";
- print " / ___/|    \ |  |  |                         \n";
- print "(   \_ |  o  )|  |  |                         \n";
- print " \__  ||     ||  _  |                         \n";
- print " /  \ ||  O  ||  |  |                         \n";
- print " \    ||     ||  |  |                         \n";
- print "  \___||_____||__|__|                         \n";
+ print "         Spam telp by JoeTampans              \n";
+ print "                                              \n";
+ print "Special thanks to :                           \n";
+ print "galehdotid - Fx106 - ./MalingSendal - P3S3K   \n";
+ print "  RobinR00T - 7ourney - m1x - Lunatic0de_     \n";
+ print " 4NG3L OF SH4D0W  - xMoody - GTx00 - Mr.Jason \n";
+ print "  nginxDEX - J()H -  - m1x                    \n";
  print "          JONATHAN TAMPAN IN HERE :)          \n";
  print "==============================================\n";
  print "\n Services available: \n";
