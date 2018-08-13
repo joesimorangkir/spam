@@ -17,7 +17,7 @@ txh : indoXploit - SGB TEAM - SukabumiBlackHat
  print "==============================================\n";
  print "\n Services available: \n";
     print "    [1] Spam SMS  by  jdid\n";
-    print "    [2] Spam Call by  Tokcalll\n";
+    print "    [2] Spam Telpon by  Tokopedia\n";
     print "    [3] Spam SMS  by  PHD\n";
     print "    [4] Spam SMS  by  tokopedia\n";
     print "      Pakai => ";
