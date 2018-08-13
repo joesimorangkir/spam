@@ -5,7 +5,6 @@
 # Github : https://github.com/LOoLzeC
 # Instagram : reyy05_
 ####################
-__banner__="""
 ********************************************
 * Bom telp by Joe
 * Coded By : JoeTampans
