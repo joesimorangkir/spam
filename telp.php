@@ -10,9 +10,9 @@ txh : indoXploit - SGB TEAM - SukabumiBlackHat
  print "                                              \n";
  print "Special thanks to :                           \n";
  print "galehdotid - Fx106 - ./MalingSendal - P3S3K   \n";
- print "  RobinR00T - 7ourney - m1x - Lunatic0de_     \n";
- print " 4NG3L OF SH4D0W  - xMoody - GTx00 - Mr.Jason \n";
- print "  nginxDEX - J()H -  - m1x                    \n";
+ print "RobinR00T - 7ourney - m1x - Lunatic0de_ - m1x \n";
+ print "4NG3L OF SH4D0W  - xMoody - GTx00 - Mr.Jason  \n";
+ print "               nginxDEX - J()H                \n";
  print "          JONATHAN TAMPAN IN HERE :)          \n";
  print "==============================================\n";
  print "\n Services available: \n";
