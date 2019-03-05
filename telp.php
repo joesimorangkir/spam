@@ -13,7 +13,7 @@ txh : indoXploit - SGB TEAM - SukabumiBlackHat
  print "RobinR00T - 7ourney - m1x - Lunatic0de_ - m1x \n";
  print "4NG3L OF SH4D0W  - xMoody - GTx00 - Mr.Jason  \n";
  print "               nginxDEX - J()H                \n";
- print "          JONATHAN TAMPAN IN HERE :)          \n";
+ print "         GINTING KONTOL.                      \n";
  print "==============================================\n";
  print "\n Services available: \n";
     print "    [1] Spam SMS  by  jdid\n";
